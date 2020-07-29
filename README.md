@@ -15,5 +15,5 @@
 
 <p align="justify"><img width="4%" src="https://image.flaticon.com/icons/svg/814/814513.svg"/> I don't speak english very well but... I really understand or I think I do this. Never knows. </p>
 
-<img src="https://ik.imagekit.io/twayhlwajl/octocat_rApCU9D9F.png"/>
+<p align="center"><img width="50%" src="https://ik.imagekit.io/twayhlwajl/octocat_rApCU9D9F.png"/>
 
